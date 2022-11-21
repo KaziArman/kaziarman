@@ -23,7 +23,6 @@
 
 - 💬 Ask me about **Supply Chain Management, Data Analysis, Operations Research**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
