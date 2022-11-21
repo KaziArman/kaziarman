@@ -13,7 +13,7 @@
 
 - 🌍 I'm mostly active within the Python Community
 
-- ⚙️ I use daily: **.py, .sql, .csv, .kml**
+- ⚙️ I use daily: **<code>.py</code>,<code>.sql</code>,<code>.csv</code>,<code>.kml</code>**
 
 - 📫 How to reach me [Linked In](https://www.linkedin.com/in/r4h4t/)
 
