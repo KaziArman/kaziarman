@@ -17,6 +17,8 @@
 
 - 📫 How to reach me [Linked In](https://www.linkedin.com/in/r4h4t/)
 
+- ![image](https://user-images.githubusercontent.com/41548781/203102379-c11dc464-ecd6-459a-867d-d93d2c81827a.png) How to reach me [Linked In](https://www.linkedin.com/in/r4h4t/)
+
 - 💬 Ask me about **Supply Chain Management, Data Analysis, Operations Research**
 
 <h3 align="left">Connect with me:</h3>
