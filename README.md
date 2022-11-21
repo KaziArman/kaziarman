@@ -19,7 +19,7 @@
 
 - 📖 Read my research paper [here](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=C6KttPcAAAAJ)
 
-👨‍💻 All of my projects are available at [kaziarman.github.io](https://kaziarman.github.io)
+- 👨‍💻 All of my projects are available at [kaziarman.github.io](https://kaziarman.github.io)
 
 - 💬 Ask me about **Supply Chain Management, Data Analysis, Operations Research**
 
