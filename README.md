@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on [Inventory Classification with the Application of Machine Learning Algorithms](https://drive.google.com/file/d/1162ciEtIbzpucsc0vZN01ZkvzAlbh3y3/view?usp=sharing)
 
-- 🌍 I'm mostly active within the [Python Community](Python Community)
+- 🌍 I'm mostly active within the Python Community
 
 - ⚙️ I use daily: **.py, .sql, .csv, .kml**
 
 - 📫 How to reach me [Linked In](https://www.linkedin.com/in/r4h4t/)
 
-- ![image](https://user-images.githubusercontent.com/41548781/203102379-c11dc464-ecd6-459a-867d-d93d2c81827a.png) How to reach me [Linked In](https://www.linkedin.com/in/r4h4t/)
+- 📖 Read my research paper [here](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=C6KttPcAAAAJ)
 
 - 💬 Ask me about **Supply Chain Management, Data Analysis, Operations Research**
 
