@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm a Data Science Enthusiast residing in Dhaka, Bangladesh.</h1>
-<h3 align="center">An Industrial Engineer , passionate about working in Data Science.</h3>
+<h3 align="center">An Industrial Engineer , passionate about working in Data Science and advanced optimization field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4h4t&label=Profile%20views&color=0e75b6&style=flat" alt="r4h4t" /> </p>
 
 - 🏢 I’m currently working at **LandQuire**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Uses of ML in Supply & Demand Management**
+- 🌱 I’m currently learning **Artificial Intelligence, Demand Management Under Uncertainity, Digital Twin System for Advacned Manufacturing**
 
-- 👯 I’m looking to collaborate on **python based data science projects**
+- 👯 I’m looking to collaborate on **python based data science projects, optimization model development projects**
 
-- 🔭 I’m currently working on [Inventory Classification with the Application of Machine Learning Algorithms](https://drive.google.com/file/d/1162ciEtIbzpucsc0vZN01ZkvzAlbh3y3/view?usp=sharing)
+- 🔭 I’m currently working on ["Ask Youtube": A Multifaceted AI Companion](https://ask-youtube.streamlit.app/)
 
 - 🌍 I'm mostly active within the Python Community
 
@@ -21,7 +21,7 @@
 
 - 👨‍💻 Look at my porfolio at [kaziarman.github.io](https://kaziarman.github.io)
 
-- 💬 Ask me about **Supply Chain Management, Data Analysis, Operations Research**
+- 💬 Ask me about **Supply Chain Management, Stochastic Optimization, Data Science, Operations Research**
 
 <p align="left">
 </p>
