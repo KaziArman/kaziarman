@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4h4t&label=Profile%20views&color=0e75b6&style=flat" alt="r4h4t" /> </p>
 
-- 🏢 I’m currently working at **LandQuire**
+- 🏢 I’m currently working on ML Techniques.
 
 - 🌱 I’m currently learning **Artificial Intelligence, Demand Management Under Uncertainity, Digital Twin System for Advacned Manufacturing**
 
 - 👯 I’m looking to collaborate on **python based data science projects, optimization model development projects**
 
-- 🔭 I’m currently working on ["Ask Youtube": A Multifaceted AI Companion](https://ask-youtube.streamlit.app/)
+- 🔭 I’m currently working on ----
 
 - 🌍 I'm mostly active within the Python Community
 
