@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Data Science Enthusiast residing in Dhaka, Bangladesh.</h1>
+<h1 align="center">Hi 👋, I'm a Data Science Enthusiast residing in Stillwater, OK, USA.</h1>
 <h3 align="center">An Industrial Engineer , passionate about working in Data Science and advanced optimization field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4h4t&label=Profile%20views&color=0e75b6&style=flat" alt="r4h4t" /> </p>
